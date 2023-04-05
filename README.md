@@ -20,8 +20,9 @@
 
 <h3><b>Languages and Tools:</b></h3>
 <p> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77582858/229359114-12084c69-b0f1-464f-abd3-caa942f6d383.png" alt="java" width="30"/> </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77582858/230239002-6c23ae19-ffd1-40bb-aa3b-7191d0f3ba39.png" alt="javascript" width="30"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77582858/229359081-14d8f630-b5bd-4dde-a972-86e2e83f0276.png" alt="javascript" width="30"/> </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77582858/229359068-22c0964f-988c-4c75-8fff-2941941ba67a.png" alt="python" width="30"/> </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/77582858/229359068-22c0964f-988c-4c75-8fff-2941941ba67a.png" alt="python" width="30"/> </a>
 </p>
 
 
