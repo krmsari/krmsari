@@ -27,7 +27,7 @@
 
 <h3><b>Connect with me:</h3>
 <p>
-<a href="https://twitter.com/krmsari" target="blank">
+<a href="https://twitter.com/0keremsari" target="blank">
   <img align="center" src="https://user-images.githubusercontent.com/77582858/229358503-96bdb20e-0ca8-41a2-ae3a-77454d967d96.png" alt="krmsari" width="30" />
 </a>
 <a href="https://linkedin.com/in/keremsar" target="blank">
