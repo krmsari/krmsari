@@ -35,7 +35,7 @@
 </a>
 <a href="mailto:0keremsari@gmail.com" target="blank">
   <img align="center" src="https://user-images.githubusercontent.com/77582858/229358414-d9c48e96-1875-4a9d-a96b-c67ac0014f84.png" alt="phyrep" width="30" /></a>
-<a href="https://www.youtube.com/c/phyrep" target="blank">
+
   <img align="center" src="https://user-images.githubusercontent.com/77582858/229358992-a0d188eb-ccd0-47ca-b587-26cbe4d6d7ad.png" alt="phyrep" width="30"/></a>
 </p>
   
